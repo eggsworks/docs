@@ -1,0 +1,16 @@
+baseURL: https://docs.eggs.works/
+languageCode: en-us
+title: EggsWorks
+theme: book
+
+menu:
+  after:
+    - name: "GitHub"
+      url: "https://github.com/eggsworks"
+      weight: 10
+    - name: "Store"
+      url: "https://eggs.works/"
+      weight: 20
+
+params:
+  BookLogo: logo.png
