@@ -7,7 +7,7 @@ type: docs
 
 ## Overview
 
-Thanks for your interest in the Tamago II! We'll have it built in no time.
+Thanks for your purchase of a Tamago II! We'll have it put together in no time.
 
 ![](tamago-2-complete.jpg)
 
@@ -22,7 +22,8 @@ Your new Tamago II kit should come with the following contents:
 
 Please let us know if anything is missing or looks funny, and we'd be glad to help!
 
-The only tool you'll need is a small phillips screwdriver.
+The only tool you'll need is a small phillips screwdriver. You'll also need 58 of your choice
+of 3-pin MX switches, and corresponding keycaps.
 
 ## Step 1: Install the trackpad
 
