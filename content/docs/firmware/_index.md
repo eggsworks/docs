@@ -20,6 +20,17 @@ Default layout:
 
 ![](egg58-layout.png)
 
+## Chicklet
+
+Firmware for the Chicklet is available in our fork of QMK.
+
+- Source: https://github.com/eggsworks/qmk_firmware/tree/chicklet-devel
+- Binary: Coming soon
+
+Default layout:
+
+![](chicklet-layout.png)
+
 ## Tamago60
 
 Firmware for the Tamago boards is maintained in a separate fork of QMK.
