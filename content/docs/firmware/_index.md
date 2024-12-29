@@ -1,9 +1,13 @@
 ---
-title: Firmware
+title: Legacy firmware information
 type: docs
 ---
 
-# Firmware
+# Important!
+
+This page is out of date! Most recent EggsWorks keyboards use ZMK! See [our ZMK Config repo](https://github.com/eggsworks/zmk-config) to download firmware for all boards not listed here.
+
+## Firmware
 
 We use QMK and VIA firmware for our boards. For more information or installation instructions, visit the [QMK website](https://docs.qmk.fm/) or [VIA website](https://www.caniusevia.com/).
  
