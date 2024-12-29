@@ -9,7 +9,7 @@ type: docs
 
 ## Materials
 
-- 1x Le Oeuf PCB
+- 1x Le Colibri PCB
 - 1x Seeed Studio XIAO RP2040
 - 30x 1N4148 diodes, SOD-123
 - 30x Kailh MX hotswap sockets
